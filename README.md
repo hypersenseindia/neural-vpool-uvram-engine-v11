@@ -1,4 +1,4 @@
-Neural vPool / uVRAM Engine v10
+Neural vPool / uVRAM Engine v11
 
 Version: 10.0
 Developer: HydraxHyperSense
